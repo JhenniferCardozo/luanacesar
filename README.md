@@ -3,25 +3,17 @@
 
 
 
-- 🔭 I’m currently working on [XXXXXX](XXXXXXX)
+- 🔭 I’m currently working on **freelance project**
 
-- 🌱 I’m currently learning **XXXXXX**
+- 🌱 I’m currently learning **NodeJs and ReactJs**
 
-- 👯 I’m looking to collaborate on [XXXXX](XXXXXX)
-
-- 🤝 I’m looking for help with [XXXXXX](XXXXXX)
-
-- 👨‍💻 All of my projects are available at [xxxxxxxxxxxxxxxx](xxxxxxxxxxxxxxxx)
-
-- 📝 I regularly write articles on [xxxxxxxxxxxxxxxxxxxxxx](xxxxxxxxxxxxxxxxxxxxxx)
-
-- 💬 Ask me about **XXXXXX**
+- 👨‍💻 All of my projects are available at []
 
 - 📫 How to reach me **luana_cesar@hotmail.com**
 
-- 📄 Know about my experiences [xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+- 📄 Know about my experiences [https://www.linkedin.com/in/luanacesar/](xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 
-- ⚡ Fun fact **xxxxxxxxxxxxxxxxx**
+- ⚡ Fun fact **I have a background in Architecture and Urbanism**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
