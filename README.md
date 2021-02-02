@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/luanacesar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luanacesar" height="30" width="40" /></a>
 </p>
 
-//<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanacesar&show_icons=true&locale=en&layout=compact" alt="luanacesar" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanacesar&show_icons=true&locale=en" alt="luanacesar" /></p>
 
 
