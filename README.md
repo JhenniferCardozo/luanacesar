@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJs and ReactJs**
 
-- 👨‍💻 All of my projects are available at **comming soon ** [https://luanacesar.github.io/MyPortfolio/](xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+- 👨‍💻 All of my projects are available at **comming soon ** [https://luanacesar.github.io/MyPortfolio/]
 
 - 📫 How to reach me **luana_cesar@hotmail.com**
 
