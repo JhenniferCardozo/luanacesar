@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanacesar&label=Profile%20views&color=0e75b6&style=flat" alt="luanacesar" /> </p>
 
 
-- 🔭 I’m currently working on **freelance project**
+- 🔭 I’m currently working on a **freelance project**
 
 - 🌱 I’m currently learning **NodeJs and ReactJs**
 
-- 👨‍💻 All of my projects are available at **comming soon ** https://luanacesar.github.io/MyPortfolio
+- 👨‍💻 All of my projects are available at **coming soon ** https://luanacesar.github.io/MyPortfolio
 
 - 📫 How to reach me **luana_cesar@hotmail.com**
 
