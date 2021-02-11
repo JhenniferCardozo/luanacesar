@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJs and ReactJs**
 
-- 👨‍💻 All of my projects are available at **coming soon ** https://luanacesar.github.io/MyPortfolio
+- 👨‍💻 All of my projects are available at https://luanacesar-git-main.luanacesar.vercel.app/
 
 - 📫 How to reach me **luana_cesar@hotmail.com**
 
