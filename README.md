@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **freelance project**
 
-- 🌱 I’m currently learning **NodeJs and ReactJs**
+- 🌱 I’m currently learning **Java and ReactJs**
 
 - 👨‍💻 All of my projects are available at https://luanacesar-git-main.luanacesar.vercel.app/
 
